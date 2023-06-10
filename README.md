@@ -15,3 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  [![GitHub Streak](https://streak-stats.demolab.com/?user=Nishtha-Parashar)](https://git.io/streak-stats) 
+<td>
+  
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishtha-Parashar&show_icons=true&locale=en&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+  </td>
